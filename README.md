@@ -25,8 +25,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/virtual-travel-expert.git
-   cd virtual-travel-expert
+   git clone https://github.com/Imahez/Travel-Expert
+   cd Travel-expert
   
 2. **Install the required dependencies:**
    ```bash
