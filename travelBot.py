@@ -61,7 +61,7 @@ def get_response(user_query, chat_history):
                                                 user_question=user_query)})
     print(messages)
     # Initialize the OpenAI API
-    api_key = os.environ.get("OPENAI_API_KEY")
+    api_key = os.environ.get("AIzaSyCvobvQwSkcw2UgTAvV_ziY3GPHuqkFJrw")
     if api_key is None:
         raise ValueError("API key for OpenAI is not set.")
     response = requests.post(
